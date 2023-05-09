@@ -1,0 +1,12 @@
+{
+  "name": "medusa-monorepo-app",
+  "version": "0.0.1",
+  "workspaces": [
+    "packages/**",
+    "apps/**"
+  ],
+  "repository": "https://github.com/sudhir4ev/medusa-sandbox.git",
+  "author": "Sudhir <sudhir.meher@evooq.ch>",
+  "license": "MIT",
+  "private": true
+}
